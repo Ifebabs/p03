@@ -5,9 +5,6 @@
 // Project Number: p03
 //
 // AUTHOR
-// Andres Morales,amora131,amora131@asu.edu
-// Karin Raath, keraath, keraath@asu.edu
-// Samuel Mabry, sjmabry1, sjmabry1@asu.edu
 // Ife Babarinde, ibabarin, ibabarin@asu.edu
 //**************************************************************************************************
 package proj3;
