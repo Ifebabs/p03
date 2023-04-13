@@ -5,7 +5,7 @@
 // Project Number: p03
 //
 // AUTHOR
-// Ife Babarinde, ibabarin, ibabarin@asu.edu
+// Ife Babarinde
 //**************************************************************************************************
 package proj3;
 
